@@ -1,0 +1,3481 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Will</Author>
+  <LastAuthor>Will</LastAuthor>
+  <Created>2008-02-20T01:37:01Z</Created>
+  <LastSaved>2008-02-20T01:37:06Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8010</WindowHeight>
+  <WindowWidth>15120</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>120</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Companies">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="69" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="184.5"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="120.75"/>
+   <Column ss:StyleID="s63" ss:Width="54"/>
+   <Row>
+    <Cell><Data ss:Type="String">Company</Data></Cell>
+    <Cell><Data ss:Type="String">Prefix</Data></Cell>
+    <Cell><Data ss:Type="String">COA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1010 E Lemon LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-000</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">109th Avenue &amp; Olive LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-001</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">1993 Shadows LP</Data></Cell>
+    <Cell><Data ss:Type="String">001-002</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">205 Main Street LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-003</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">210 Grant Avenue LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-004</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">2204 W First LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-005</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">260 Main Street LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-006</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">221 Main Street LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-007</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">573 Main Street LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-008</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">75th &amp; Tierra Buena Lane LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-009</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">7th &amp; 101 Apartments Phase I LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-010</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">7th &amp; 101 Apartments Phase II LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-011</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Avenue Communities LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-012</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Avenue Realty of California Inc</Data></Cell>
+    <Cell><Data ss:Type="String">001-013</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Avenue Realty LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-014</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Beringer Capital LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-015</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Cave Creek &amp; Beardsley LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-016</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Cessna 172 LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-017</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">CJ3 Holdings LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-018</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Coral Mountain Development LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-019</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">DD Elkhorn Group LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-020</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Double D and Associates LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-021</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">EDGE Grayhawk Conversion</Data></Cell>
+    <Cell><Data ss:Type="String">001-022</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Fifth and Ash LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-023</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Gateway Resort Solana Beach LP</Data></Cell>
+    <Cell><Data ss:Type="String">001-024</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germaine Partners LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-025</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Graystar Investments LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-026</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Greenway Apartments Investments LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-027</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Greenway 47th Investors LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-028</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Kingston Capital LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-029</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">KL-998 Trust - Construction Account</Data></Cell>
+    <Cell><Data ss:Type="String">001-030</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Magellan Construction LP - Operating</Data></Cell>
+    <Cell><Data ss:Type="String">001-031</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Magellan Construction LP - VENU Galleria Conversion</Data></Cell>
+    <Cell><Data ss:Type="String">001-032</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Pinnacle Peak Apartments LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-033</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">PLS LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-034</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Point Grey Residential LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-035</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Promontory Lot 28 LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-036</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Promontory Lot 38 LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-037</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Pur Vine LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-038</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Queen Street Aviation LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-039</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Richmond Holdings LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-040</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Seventh Street Holdings LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-041</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Tangerine Capital LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-042</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Tempe Centerpoint Construction LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-043</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Tempe Flour Mill LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-044</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Tempe Land Company LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-045</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">The Okanagan Cannery ULC</Data></Cell>
+    <Cell><Data ss:Type="String">001-046</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Third Avenue Lofts Construction LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-047</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Third Avenue Lofts LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-048</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Trillium at Papago LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-049</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Trillium Development - 109th &amp; Olive</Data></Cell>
+    <Cell><Data ss:Type="String">001-050</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Trillium Development - 75th &amp; Tierra Buena</Data></Cell>
+    <Cell><Data ss:Type="String">001-051</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Trillium Development - 7th &amp; 101 Phase I</Data></Cell>
+    <Cell><Data ss:Type="String">001-052</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Trillium Development - Cave Creek &amp; Beardsley</Data></Cell>
+    <Cell><Data ss:Type="String">001-053</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Trillium Development - Edge  </Data></Cell>
+    <Cell><Data ss:Type="String">001-054</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Trillium Development - Pinnacle Peak Apartments</Data></Cell>
+    <Cell><Data ss:Type="String">001-055</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Trillium Development - Seventh Street Holdings</Data></Cell>
+    <Cell><Data ss:Type="String">001-056</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Trillium Development - Trillium Papago</Data></Cell>
+    <Cell><Data ss:Type="String">001-057</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Trillium Investments LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-058</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Trillium Residential - Trillium Deer Valley</Data></Cell>
+    <Cell><Data ss:Type="String">001-059</Data></Cell>
+    <Cell><Data ss:Type="String">Property</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Trillium Residential - VENU Galleria</Data></Cell>
+    <Cell><Data ss:Type="String">001-060</Data></Cell>
+    <Cell><Data ss:Type="String">Property</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Trillium Residential - EDGE Grayhawk</Data></Cell>
+    <Cell><Data ss:Type="String">001-061</Data></Cell>
+    <Cell><Data ss:Type="String">Property</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Trillium Residential - Trillium Papago</Data></Cell>
+    <Cell><Data ss:Type="String">001-062</Data></Cell>
+    <Cell><Data ss:Type="String">Property</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">UH Condominium Corporation</Data></Cell>
+    <Cell><Data ss:Type="String">001-063</Data></Cell>
+    <Cell><Data ss:Type="String">Property</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Upper Norfolk Properties LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-064</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">VENU Galleria Conversion</Data></Cell>
+    <Cell><Data ss:Type="String">001-065</Data></Cell>
+    <Cell><Data ss:Type="String">Soft Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">VENU Grayhawk</Data></Cell>
+    <Cell><Data ss:Type="String">001-066</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">VTP Partners LLC</Data></Cell>
+    <Cell><Data ss:Type="String">001-067</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>7</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Property">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="139" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0"/>
+   <Column ss:StyleID="s63" ss:Width="227.25"/>
+   <Row>
+    <Cell><Data ss:Type="Number">4200</Data></Cell>
+    <Cell><Data ss:Type="String">Answering Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4203</Data></Cell>
+    <Cell><Data ss:Type="String">Bank Charges</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4206</Data></Cell>
+    <Cell><Data ss:Type="String">Computer Services</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4209</Data></Cell>
+    <Cell><Data ss:Type="String">Accounting Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4212</Data></Cell>
+    <Cell><Data ss:Type="String">HOA Dues</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4215</Data></Cell>
+    <Cell><Data ss:Type="String">Computer Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4218</Data></Cell>
+    <Cell><Data ss:Type="String">Courier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4221</Data></Cell>
+    <Cell><Data ss:Type="String">Dues &amp; Subscriptions</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4224</Data></Cell>
+    <Cell><Data ss:Type="String">Employee Activities</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4227</Data></Cell>
+    <Cell><Data ss:Type="String">Employee Training</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4230</Data></Cell>
+    <Cell><Data ss:Type="String">Admin Temporary Help</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4233</Data></Cell>
+    <Cell><Data ss:Type="String">Inspections &amp; Permits</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4236</Data></Cell>
+    <Cell><Data ss:Type="String">Furniture Rental - Cabana</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4239</Data></Cell>
+    <Cell><Data ss:Type="String">Furniture Rental - Office</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4242</Data></Cell>
+    <Cell><Data ss:Type="String">Furnished Suites</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4248</Data></Cell>
+    <Cell><Data ss:Type="String">Other Legal Per Month</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4251</Data></Cell>
+    <Cell><Data ss:Type="String">Guest Unit Expenses</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4254</Data></Cell>
+    <Cell><Data ss:Type="String">Legal - Evictions</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4257</Data></Cell>
+    <Cell><Data ss:Type="String">Licenses &amp; Permits</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4260</Data></Cell>
+    <Cell><Data ss:Type="String">Office Equip - Other</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4263</Data></Cell>
+    <Cell><Data ss:Type="String">Office Equipment Rental</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4266</Data></Cell>
+    <Cell><Data ss:Type="String">Office Equipment Repair</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4269</Data></Cell>
+    <Cell><Data ss:Type="String">Office Telephone</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4272</Data></Cell>
+    <Cell><Data ss:Type="String">Other Administrative</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4275</Data></Cell>
+    <Cell><Data ss:Type="String">Other Office Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4278</Data></Cell>
+    <Cell><Data ss:Type="String">Overnight Mail</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4281</Data></Cell>
+    <Cell><Data ss:Type="String">Pagers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4284</Data></Cell>
+    <Cell><Data ss:Type="String">Postage</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4287</Data></Cell>
+    <Cell><Data ss:Type="String">Printed Forms</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4290</Data></Cell>
+    <Cell><Data ss:Type="String">Real Property Tax Services</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4293</Data></Cell>
+    <Cell><Data ss:Type="String">Other Professional</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4295</Data></Cell>
+    <Cell><Data ss:Type="String">Shopping Reports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4297</Data></Cell>
+    <Cell><Data ss:Type="String">Travel Reimbursement</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4301</Data></Cell>
+    <Cell><Data ss:Type="String">Ad Agency Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4304</Data></Cell>
+    <Cell><Data ss:Type="String">Apartment Guide</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4308</Data></Cell>
+    <Cell><Data ss:Type="String">AZ Republic Rentals</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4312</Data></Cell>
+    <Cell><Data ss:Type="String">Brochures</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4316</Data></Cell>
+    <Cell><Data ss:Type="String">Business Cards</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4320</Data></Cell>
+    <Cell><Data ss:Type="String">Direct Mail</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4324</Data></Cell>
+    <Cell><Data ss:Type="String">For Rent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4328</Data></Cell>
+    <Cell><Data ss:Type="String">Internet Advertising</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4332</Data></Cell>
+    <Cell><Data ss:Type="String">Locator/Referral Services</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4336</Data></Cell>
+    <Cell><Data ss:Type="String">Model Accessories</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4340</Data></Cell>
+    <Cell><Data ss:Type="String">Model Furn Rental</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4344</Data></Cell>
+    <Cell><Data ss:Type="String">Move-in Gifts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4348</Data></Cell>
+    <Cell><Data ss:Type="String">Newspaper</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4352</Data></Cell>
+    <Cell><Data ss:Type="String">Newsletter</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4356</Data></Cell>
+    <Cell><Data ss:Type="String">Other Print Advertising</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4360</Data></Cell>
+    <Cell><Data ss:Type="String">Photography</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4364</Data></Cell>
+    <Cell><Data ss:Type="String">Printing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4368</Data></Cell>
+    <Cell><Data ss:Type="String">Radio &amp; TV</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4372</Data></Cell>
+    <Cell><Data ss:Type="String">Resident Activities</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4374</Data></Cell>
+    <Cell><Data ss:Type="String">Resident Referrals</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4376</Data></Cell>
+    <Cell><Data ss:Type="String">Resident Retention</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4380</Data></Cell>
+    <Cell><Data ss:Type="String">Resident Hospitality</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4384</Data></Cell>
+    <Cell><Data ss:Type="String">Resident Screening</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4388</Data></Cell>
+    <Cell><Data ss:Type="String">Signs/Banners/Balloons</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4400</Data></Cell>
+    <Cell><Data ss:Type="String">Landscape Contract Services</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4405</Data></Cell>
+    <Cell><Data ss:Type="String">Landscape Equipment Rental</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4410</Data></Cell>
+    <Cell><Data ss:Type="String">Landscape Irrigation Supply</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4415</Data></Cell>
+    <Cell><Data ss:Type="String">Landscape Irrigation Repair</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4420</Data></Cell>
+    <Cell><Data ss:Type="String">Landscape Seasonal Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4425</Data></Cell>
+    <Cell><Data ss:Type="String">Landscape Seasonal Services</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4430</Data></Cell>
+    <Cell><Data ss:Type="String">Landscape Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4435</Data></Cell>
+    <Cell><Data ss:Type="String">Interior Plant Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4436</Data></Cell>
+    <Cell><Data ss:Type="String">Utility Contract</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4445</Data></Cell>
+    <Cell><Data ss:Type="String">Security Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4450</Data></Cell>
+    <Cell><Data ss:Type="String">Alarm Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4455</Data></Cell>
+    <Cell><Data ss:Type="String">Extinguisher Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4460</Data></Cell>
+    <Cell><Data ss:Type="String">Parking Lot/Carport Services</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4465</Data></Cell>
+    <Cell><Data ss:Type="String">Pest Control Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4470</Data></Cell>
+    <Cell><Data ss:Type="String">Elevator Contract</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4480</Data></Cell>
+    <Cell><Data ss:Type="String">Security Contract Services</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4500</Data></Cell>
+    <Cell><Data ss:Type="String">Access Gate Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4502</Data></Cell>
+    <Cell><Data ss:Type="String">Access Gate Repair Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4504</Data></Cell>
+    <Cell><Data ss:Type="String">Carpet Cleaning/Repairs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4506</Data></Cell>
+    <Cell><Data ss:Type="String">Cleaning Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4510</Data></Cell>
+    <Cell><Data ss:Type="String">Equipment Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4512</Data></Cell>
+    <Cell><Data ss:Type="String">Equipment Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4514</Data></Cell>
+    <Cell><Data ss:Type="String">Glass &amp; Screen Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4516</Data></Cell>
+    <Cell><Data ss:Type="String">Glass &amp; Screen Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4518</Data></Cell>
+    <Cell><Data ss:Type="String">Hardware Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4522</Data></Cell>
+    <Cell><Data ss:Type="String">Key &amp; Lock Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4524</Data></Cell>
+    <Cell><Data ss:Type="String">Key &amp; Lock Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4526</Data></Cell>
+    <Cell><Data ss:Type="String">Paint Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4528</Data></Cell>
+    <Cell><Data ss:Type="String">Paint Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4530</Data></Cell>
+    <Cell><Data ss:Type="String">Parking Lot/Carport Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4532</Data></Cell>
+    <Cell><Data ss:Type="String">Pest Control Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4534</Data></Cell>
+    <Cell><Data ss:Type="String">Plumbing Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4536</Data></Cell>
+    <Cell><Data ss:Type="String">Plumbing Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4538</Data></Cell>
+    <Cell><Data ss:Type="String">Recreational Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4540</Data></Cell>
+    <Cell><Data ss:Type="String">Recreational Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4542</Data></Cell>
+    <Cell><Data ss:Type="String">Window Treatment Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4544</Data></Cell>
+    <Cell><Data ss:Type="String">Window Treatment Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4546</Data></Cell>
+    <Cell><Data ss:Type="String">Drywall Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4548</Data></Cell>
+    <Cell><Data ss:Type="String">Drywall Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4550</Data></Cell>
+    <Cell><Data ss:Type="String">Amortized Property Improv</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4552</Data></Cell>
+    <Cell><Data ss:Type="String">Pool Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4554</Data></Cell>
+    <Cell><Data ss:Type="String">Pool Licenses</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4556</Data></Cell>
+    <Cell><Data ss:Type="String">Pool Repair</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4558</Data></Cell>
+    <Cell><Data ss:Type="String">Pool Contract Maint</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4560</Data></Cell>
+    <Cell><Data ss:Type="String">Pool Furn/Fixt/Equip</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4562</Data></Cell>
+    <Cell><Data ss:Type="String">Appliance Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4564</Data></Cell>
+    <Cell><Data ss:Type="String">Appliance Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4566</Data></Cell>
+    <Cell><Data ss:Type="String">Carpet Cleaning Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4568</Data></Cell>
+    <Cell><Data ss:Type="String">Cleaning Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4570</Data></Cell>
+    <Cell><Data ss:Type="String">Chimney Cleaning Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4572</Data></Cell>
+    <Cell><Data ss:Type="String">Vinyl/Tile Repair Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4574</Data></Cell>
+    <Cell><Data ss:Type="String">Electrical Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4576</Data></Cell>
+    <Cell><Data ss:Type="String">Electrical Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4586</Data></Cell>
+    <Cell><Data ss:Type="String">HVAC Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4588</Data></Cell>
+    <Cell><Data ss:Type="String">HVAC Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4596</Data></Cell>
+    <Cell><Data ss:Type="String">Roof Repair Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4702</Data></Cell>
+    <Cell><Data ss:Type="String">T/O Cleaning Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4703</Data></Cell>
+    <Cell><Data ss:Type="String">T/O Contract Cleaning</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4704</Data></Cell>
+    <Cell><Data ss:Type="String">T/O Paint Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4705</Data></Cell>
+    <Cell><Data ss:Type="String">T/O Contract Painting</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4707</Data></Cell>
+    <Cell><Data ss:Type="String">T/O Carpet Cleaning/Repair</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4708</Data></Cell>
+    <Cell><Data ss:Type="String">T/O Carpet Replacement</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4710</Data></Cell>
+    <Cell><Data ss:Type="String">T/O Resurfacing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4712</Data></Cell>
+    <Cell><Data ss:Type="String">T/O Vinyl/Tile Replacement</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4713</Data></Cell>
+    <Cell><Data ss:Type="String">T/O Drywall</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4800</Data></Cell>
+    <Cell><Data ss:Type="String">Common Area Electric</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4805</Data></Cell>
+    <Cell><Data ss:Type="String">Model Electric</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4810</Data></Cell>
+    <Cell><Data ss:Type="String">Office/Cabana Electric</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4815</Data></Cell>
+    <Cell><Data ss:Type="String">Turnover Electric</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4820</Data></Cell>
+    <Cell><Data ss:Type="String">Common Area Water</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4825</Data></Cell>
+    <Cell><Data ss:Type="String">Sewer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4830</Data></Cell>
+    <Cell><Data ss:Type="String">Common Area Gas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4835</Data></Cell>
+    <Cell><Data ss:Type="String">Turnover Gas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4840</Data></Cell>
+    <Cell><Data ss:Type="String">Pool &amp; Spa Gas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4845</Data></Cell>
+    <Cell><Data ss:Type="String">Pool &amp; Spa Electric</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4850</Data></Cell>
+    <Cell><Data ss:Type="String">Cable TV</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4855</Data></Cell>
+    <Cell><Data ss:Type="String">Water/Sewer Reimbursement</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5002</Data></Cell>
+    <Cell><Data ss:Type="String">Real Property Taxes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5003</Data></Cell>
+    <Cell><Data ss:Type="String">Additional Property Taxes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5004</Data></Cell>
+    <Cell><Data ss:Type="String">City Taxes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6040</Data></Cell>
+    <Cell><Data ss:Type="String">Professional Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7000</Data></Cell>
+    <Cell><Data ss:Type="String">WARRANTY EXPENSE</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <TopRowVisible>75</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>14</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Corporate">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="211" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="104.25"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="243"/>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.001</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - 48th&amp;VanBuren</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.002</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - Karen Drive</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0029999999999</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - Terrace Road</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0039999999999</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - CaveCrk/Beardsley</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0050000000001</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - Hayden Flour Mill</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0060000000001</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - Greens@VentanCnyn</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0070000000001</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - Prescott Deal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.008</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - 7th &amp; Beardsley</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.009</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - 83rdAve/Greenway</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1410.010</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - 75th&amp;TierraBuena</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.011</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - Okanagen-CdnLand</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0119999999999</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - Tempe Office</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0129999999999</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - 1010 E Lemon</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0139999999999</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - Aven Canadn Vntrs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0150000000001</Data></Cell>
+    <Cell><Data ss:Type="String">PrAcqCsts - McDffy's Sprts Bar</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0160000000001</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - Promontory 38 LLC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0170000000001</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - Promontory 28 LLC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.018</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - 7th St. Holding</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.019</Data></Cell>
+    <Cell><Data ss:Type="String">Pre AcqCsts - Happy Valley</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1410.020</Data></Cell>
+    <Cell><Data ss:Type="String">Pre Acq - 44th and Washington</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.021</Data></Cell>
+    <Cell><Data ss:Type="String">Pre Acq - PinnaclePeak/23rdAve</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0219999999999</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCosts - 5th and Farmer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0229999999999</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCosts - Austin, TX</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0239999999999</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCosts - McQueen&amp;Grmnn Rd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0250000000001</Data></Cell>
+    <Cell><Data ss:Type="String">PrAcqCsts - 260 Mn (Upp Mn St)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0260000000001</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - Miller &amp; McDowell</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.027</Data></Cell>
+    <Cell><Data ss:Type="String">PrAcqCst - 573 Min (Cl Jmp Ut)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.028</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - Las Vegas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.029</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - Grape Investment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1410.030</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - Upper Northfolk</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0309999999999</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts- Pur Vine LLC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0319999999999</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts- Win Invstmnts, LLC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0329999999999</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts- 210 Grant Avenue</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0340000000001</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts- ImperlHotl/221MnSt</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0350000000001</Data></Cell>
+    <Cell><Data ss:Type="String">PrAcqCst- 109thAv &amp; Olv (AqFr)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0360000000001</Data></Cell>
+    <Cell><Data ss:Type="String">Pre-Acq - Swd Ally, PrkCty Uth</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.037</Data></Cell>
+    <Cell><Data ss:Type="String">PrAcqCsts - 20thSt/Cml TwnCntr</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.038</Data></Cell>
+    <Cell><Data ss:Type="String">PrAcqCsts - 205 Mn Strt, PrkCt</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.039</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - 7thAve/101</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1410.040</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcq - 99thAve / Van Buren</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0409999999999</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - 2204 W 1st LLC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0419999999999</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - RioSalado/Rural</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0429999999999</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - 3rd St &amp; Ash</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0440000000001</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcq - 449 MainStreet</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.0450000000001</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcq - 306 Main Street</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.046</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcq - Park Ave Lots</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.047</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcq - Agio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.048</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcq - Mill Ave Bridge</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.6010000000001</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCst - Okangn Lak Lot 5-6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.6020000000001</Data></Cell>
+    <Cell><Data ss:Type="String">PreAqcCt - Lot 7-9 closing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">1410.6030000000001</Data></Cell>
+    <Cell><Data ss:Type="String">PreAcqCsts - Summerland</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1603.000</Data></Cell>
+    <Cell><Data ss:Type="String">Furniture &amp; Fixtures</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1610.000</Data></Cell>
+    <Cell><Data ss:Type="String">Cumper HW &amp; SW</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1629.000</Data></Cell>
+    <Cell><Data ss:Type="String">Boats</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1630.000</Data></Cell>
+    <Cell><Data ss:Type="String">Furniture, Fixtures, &amp; Eqpment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1632.000</Data></Cell>
+    <Cell><Data ss:Type="String">Website</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">5000.000</Data></Cell>
+    <Cell><Data ss:Type="String">Rental Expense</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">5002.000</Data></Cell>
+    <Cell><Data ss:Type="String">Real Property Taxes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">5006.000</Data></Cell>
+    <Cell><Data ss:Type="String">Property &amp; Casualty Insurance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">5100.000</Data></Cell>
+    <Cell><Data ss:Type="String">Wine Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">5200.220</Data></Cell>
+    <Cell><Data ss:Type="String">CC - Roseville Conversion</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6005.000</Data></Cell>
+    <Cell><Data ss:Type="String">Outside Labor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6006.000</Data></Cell>
+    <Cell><Data ss:Type="String">Training</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6010.000</Data></Cell>
+    <Cell><Data ss:Type="String">Building Rent</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6013.000</Data></Cell>
+    <Cell><Data ss:Type="String">Office Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6015.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tools and Equipment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6016.000</Data></Cell>
+    <Cell><Data ss:Type="String">Driver Equipment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6017.000</Data></Cell>
+    <Cell><Data ss:Type="String">Shop Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6020.000</Data></Cell>
+    <Cell><Data ss:Type="String">Repair Parts - Racecars</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6021.000</Data></Cell>
+    <Cell><Data ss:Type="String">Repair Parts - Karts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6022.000</Data></Cell>
+    <Cell><Data ss:Type="String">Repair Parts - Golf Carts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6025.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tires</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6030.000</Data></Cell>
+    <Cell><Data ss:Type="String">Fuel - Racecars</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6035.000</Data></Cell>
+    <Cell><Data ss:Type="String">Insurance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6040.000</Data></Cell>
+    <Cell><Data ss:Type="String">Truck Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6045.000</Data></Cell>
+    <Cell><Data ss:Type="String">Fuel - Travel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6046.000</Data></Cell>
+    <Cell><Data ss:Type="String">Parking/Tolls/Taxi Travel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6050.000</Data></Cell>
+    <Cell><Data ss:Type="String">Lodgings</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6055.000</Data></Cell>
+    <Cell><Data ss:Type="String">Rental Car</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6060.000</Data></Cell>
+    <Cell><Data ss:Type="String">Travel - Airfare</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6062.000</Data></Cell>
+    <Cell><Data ss:Type="String">Shipping</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6064.000</Data></Cell>
+    <Cell><Data ss:Type="String">Per Diem</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6065.000</Data></Cell>
+    <Cell><Data ss:Type="String">Meals</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6066.000</Data></Cell>
+    <Cell><Data ss:Type="String">Entertainment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6070.000</Data></Cell>
+    <Cell><Data ss:Type="String">Entry Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6075.000</Data></Cell>
+    <Cell><Data ss:Type="String">Track Rental and Testing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6080.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tax Preparation Fee</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6110.000</Data></Cell>
+    <Cell><Data ss:Type="String">Salaries</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6110.100</Data></Cell>
+    <Cell><Data ss:Type="String">Salaries King Air</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6110.200</Data></Cell>
+    <Cell><Data ss:Type="String">Salaries CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6111.000</Data></Cell>
+    <Cell><Data ss:Type="String">Employee Uniforms</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6115.000</Data></Cell>
+    <Cell><Data ss:Type="String">Commission Expense</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6120.000</Data></Cell>
+    <Cell><Data ss:Type="String">Automobile Allowance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6121.000</Data></Cell>
+    <Cell><Data ss:Type="String">Fuel - Boat/Van</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6122.000</Data></Cell>
+    <Cell><Data ss:Type="String">Auto/Boat/PWC Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6130.000</Data></Cell>
+    <Cell><Data ss:Type="String">Bonuses &amp; Incentives</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6180.000</Data></Cell>
+    <Cell><Data ss:Type="String">Temporary Help</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6201.000</Data></Cell>
+    <Cell><Data ss:Type="String">Franchise Tax</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6210.000</Data></Cell>
+    <Cell><Data ss:Type="String">Legal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6211.000</Data></Cell>
+    <Cell><Data ss:Type="String">Legal - Canterra Warranty</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6220.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tax Consulting</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6230.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tax Consulting - Other</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6240.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tax Compliance - Other</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6250.000</Data></Cell>
+    <Cell><Data ss:Type="String">Organization Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6260.000</Data></Cell>
+    <Cell><Data ss:Type="String">Audit</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6261.000</Data></Cell>
+    <Cell><Data ss:Type="String">Architect Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6262.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sales Services</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6270.000</Data></Cell>
+    <Cell><Data ss:Type="String">Consulting</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6280.000</Data></Cell>
+    <Cell><Data ss:Type="String">Consulting - Other</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6300.000</Data></Cell>
+    <Cell><Data ss:Type="String">Administration Expenses</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6310.000</Data></Cell>
+    <Cell><Data ss:Type="String">Automobile Expense</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6310.100</Data></Cell>
+    <Cell><Data ss:Type="String">Automobile Expense King Air</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6310.200</Data></Cell>
+    <Cell><Data ss:Type="String">Automobile Expense CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6320.000</Data></Cell>
+    <Cell><Data ss:Type="String">Bad Debt Expense</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6330.000</Data></Cell>
+    <Cell><Data ss:Type="String">Bank Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6331.000</Data></Cell>
+    <Cell><Data ss:Type="String">Exchange (Gain)/Loss</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6340.000</Data></Cell>
+    <Cell><Data ss:Type="String">Courier/Overnight</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6340.100</Data></Cell>
+    <Cell><Data ss:Type="String">Courier/Overnight - VenuResale</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6340.200</Data></Cell>
+    <Cell><Data ss:Type="String">Courier/Overnight Postage CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6341.000</Data></Cell>
+    <Cell><Data ss:Type="String">Postage</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6350.000</Data></Cell>
+    <Cell><Data ss:Type="String">Donations &amp; Gifts - Deductible</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6360.000</Data></Cell>
+    <Cell><Data ss:Type="String">Donations &amp; Gfts - Non Dedctbl</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6370.000</Data></Cell>
+    <Cell><Data ss:Type="String">Dues &amp; Subscriptions</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6370.100</Data></Cell>
+    <Cell><Data ss:Type="String">Dues/Subscriptions King Air</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6370.200</Data></Cell>
+    <Cell><Data ss:Type="String">Dues/Subscriptions CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6371.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sposorships</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6380.000</Data></Cell>
+    <Cell><Data ss:Type="String">Employee Recruiting</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6390.000</Data></Cell>
+    <Cell><Data ss:Type="String">Insurance - Construction</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6391.000</Data></Cell>
+    <Cell><Data ss:Type="String">Insurance - Corporate</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6392.000</Data></Cell>
+    <Cell><Data ss:Type="String">Insurance - Directors &amp; Offcrs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6393.000</Data></Cell>
+    <Cell><Data ss:Type="String">Insurance - Boat/Auto</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6394.000</Data></Cell>
+    <Cell><Data ss:Type="String">Insurance - Aircraft</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6400.000</Data></Cell>
+    <Cell><Data ss:Type="String">Late Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6410.000</Data></Cell>
+    <Cell><Data ss:Type="String">Licenses &amp; Taxes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6410.100</Data></Cell>
+    <Cell><Data ss:Type="String">Licenses and Taxes  King Air</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6410.200</Data></Cell>
+    <Cell><Data ss:Type="String">Licenses and Taxes CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6411.000</Data></Cell>
+    <Cell><Data ss:Type="String">Dues, Permits, Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6420.000</Data></Cell>
+    <Cell><Data ss:Type="String">Meals &amp; Entertainment - 100%</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6420.100</Data></Cell>
+    <Cell><Data ss:Type="String">Meals - Venu Resale</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6420.200</Data></Cell>
+    <Cell><Data ss:Type="String">Meals &amp; Entertnment - 100% CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6421.000</Data></Cell>
+    <Cell><Data ss:Type="String">Company Party/Picnics</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6421.100</Data></Cell>
+    <Cell><Data ss:Type="String">Company Party/Picnics King Air</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6421.200</Data></Cell>
+    <Cell><Data ss:Type="String">Company Party/Picnics CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6430.000</Data></Cell>
+    <Cell><Data ss:Type="String">Meals &amp; Entertainment - 50%</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6440.000</Data></Cell>
+    <Cell><Data ss:Type="String">Offc Suppls &amp; Miscllns - Dirct</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6440.100</Data></Cell>
+    <Cell><Data ss:Type="String">Office Supplies - Venu Resale</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6440.200</Data></Cell>
+    <Cell><Data ss:Type="String">Supplies - Cellular CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6441.000</Data></Cell>
+    <Cell><Data ss:Type="String">Office Furniture</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6441.100</Data></Cell>
+    <Cell><Data ss:Type="String">Office Furniture - Venu</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6442.000</Data></Cell>
+    <Cell><Data ss:Type="String">PLS/Water Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6443.000</Data></Cell>
+    <Cell><Data ss:Type="String">Grapes - Wine making supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6450.000</Data></Cell>
+    <Cell><Data ss:Type="String">Payroll Admin Fee (ADP)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6451.000</Data></Cell>
+    <Cell><Data ss:Type="String">Trash Removal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6453.000</Data></Cell>
+    <Cell><Data ss:Type="String">HOA Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6455.000</Data></Cell>
+    <Cell><Data ss:Type="String">Venu HOA Subsidy - Spa Servics</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6456.000</Data></Cell>
+    <Cell><Data ss:Type="String">VENU HOA Subsidy - Event Servc</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6457.000</Data></Cell>
+    <Cell><Data ss:Type="String">VENU HOA - Vender Marchine</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6458.000</Data></Cell>
+    <Cell><Data ss:Type="String">VENU HOA - Boat</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6460.000</Data></Cell>
+    <Cell><Data ss:Type="String">Training - Direct</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6461.000</Data></Cell>
+    <Cell><Data ss:Type="String">Training - TRAC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6470.000</Data></Cell>
+    <Cell><Data ss:Type="String">Travel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6470.100</Data></Cell>
+    <Cell><Data ss:Type="String">Travel King Air</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6470.200</Data></Cell>
+    <Cell><Data ss:Type="String">Travel CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6480.000</Data></Cell>
+    <Cell><Data ss:Type="String">Website Hosting &amp; Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6480.100</Data></Cell>
+    <Cell><Data ss:Type="String">Website Hosting/Mnt - VENUSals</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6510.000</Data></Cell>
+    <Cell><Data ss:Type="String">Equipment Leases</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6510.100</Data></Cell>
+    <Cell><Data ss:Type="String">Equipment Leases - Venu Resale</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6510.600</Data></Cell>
+    <Cell><Data ss:Type="String">Equipment Lease - Fax</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6510.608</Data></Cell>
+    <Cell><Data ss:Type="String">Equipment Lease - Postage Metr</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">6510.6090000000004</Data></Cell>
+    <Cell><Data ss:Type="String">Equipment Lease - Danka</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6515.000</Data></Cell>
+    <Cell><Data ss:Type="String">Equipment Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6520.000</Data></Cell>
+    <Cell><Data ss:Type="String">Telephone - Offic/LD/Intrnt/Fx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6520.100</Data></Cell>
+    <Cell><Data ss:Type="String">Telephone - Offc/Intrnt VenRsl</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6520.200</Data></Cell>
+    <Cell><Data ss:Type="String">Telphn - Offc/LD/Intrnt/Fx CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6530.000</Data></Cell>
+    <Cell><Data ss:Type="String">Telephone - Cellular</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6530.100</Data></Cell>
+    <Cell><Data ss:Type="String">Telephone - Cellular King Air</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6530.200</Data></Cell>
+    <Cell><Data ss:Type="String">Telephone - Cellular CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6540.000</Data></Cell>
+    <Cell><Data ss:Type="String">CompSoftware/SoftwareMaintenc</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6545.000</Data></Cell>
+    <Cell><Data ss:Type="String">Computer Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6545.100</Data></Cell>
+    <Cell><Data ss:Type="String">Computer Supplies - Venu Resal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6550.000</Data></Cell>
+    <Cell><Data ss:Type="String">Small Equip/Office Equip</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6550.100</Data></Cell>
+    <Cell><Data ss:Type="String">SmallOfficeEquip/Comp - VenRsl</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6610.000</Data></Cell>
+    <Cell><Data ss:Type="String">Building Rent &amp; Parking</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6620.000</Data></Cell>
+    <Cell><Data ss:Type="String">Storage/Offsite</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6630.000</Data></Cell>
+    <Cell><Data ss:Type="String">Building Utilities</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6710.000</Data></Cell>
+    <Cell><Data ss:Type="String">Advertising/Marketing Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6710.100</Data></Cell>
+    <Cell><Data ss:Type="String">Advertising - Venu Resale</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6720.000</Data></Cell>
+    <Cell><Data ss:Type="String">Internet Media</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6730.000</Data></Cell>
+    <Cell><Data ss:Type="String">Print Media</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6740.000</Data></Cell>
+    <Cell><Data ss:Type="String">Promotion</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6750.000</Data></Cell>
+    <Cell><Data ss:Type="String">Radio Media</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6760.000</Data></Cell>
+    <Cell><Data ss:Type="String">Donation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">6999.000</Data></Cell>
+    <Cell><Data ss:Type="String">Mis. Unallocated Expense</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7000.000</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Fuel Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7000.100</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Fuel Costs King Air</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7000.200</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Fuel Costs CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7010.000</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Maintenance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7010.100</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Maintenance Kng Air</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7010.200</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft-Maintenance CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7011.000</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Supplies/Equipment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7011.100</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Suppls/Eqpmnt KngAr</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7011.200</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Supplies/Eqpmnt CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7020.000</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Rental</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7030.000</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Landing Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7030.100</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Landing Fs Kng Air</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7030.200</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Landing Fees CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7040.000</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Operation Expenses</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7050.000</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Hangar Leasing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7050.100</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Hanger Lsng Kng Air</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">7050.200</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft - Hanger Leasing CJ3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">9999.000</Data></Cell>
+    <Cell><Data ss:Type="String">Suspense</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>212</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Soft Costs">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="173" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="67.5"/>
+   <Column ss:StyleID="s63" ss:Width="175.5"/>
+   <Row>
+    <Cell><Data ss:Type="String">10.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Category Land</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">Land</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10.01.100</Data></Cell>
+    <Cell><Data ss:Type="String">Land - Escrow</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10.01.101</Data></Cell>
+    <Cell><Data ss:Type="String">Land-Title/Closing/Escrow/Lega</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10.01.110</Data></Cell>
+    <Cell><Data ss:Type="String">Land - Title Report</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10.01.120</Data></Cell>
+    <Cell><Data ss:Type="String">Land - Entitlement (Legal &amp; Fe</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10.01.125</Data></Cell>
+    <Cell><Data ss:Type="String">Appraisal - Land</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10.01.126</Data></Cell>
+    <Cell><Data ss:Type="String">Appraisal - construction</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10.01.127</Data></Cell>
+    <Cell><Data ss:Type="String">Appraisal - As-Built</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10.01.200</Data></Cell>
+    <Cell><Data ss:Type="String">Ground Lease</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10.01.250</Data></Cell>
+    <Cell><Data ss:Type="String">Land - Infrastructure</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10.01.300</Data></Cell>
+    <Cell><Data ss:Type="String">Site Maintenance (pre-const)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">10.01.301</Data></Cell>
+    <Cell><Data ss:Type="String">Pre Construction Utilities</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">11.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Building</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">11.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">Building</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">11.01.100</Data></Cell>
+    <Cell><Data ss:Type="String">Building - Escrow</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">12.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Category - Taxes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">12.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">not used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">12.01.100</Data></Cell>
+    <Cell><Data ss:Type="String">Real Esate Taxes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">CAT-Architectural&amp;Engineering</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">not used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.099</Data></Cell>
+    <Cell><Data ss:Type="String">Pre Development Architect</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.100</Data></Cell>
+    <Cell><Data ss:Type="String">Architect</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.101</Data></Cell>
+    <Cell><Data ss:Type="String">Landscape Architect</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.105</Data></Cell>
+    <Cell><Data ss:Type="String">Pool &amp; Spa Designer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.110</Data></Cell>
+    <Cell><Data ss:Type="String">Interior Designer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.200</Data></Cell>
+    <Cell><Data ss:Type="String">Civil Engineering</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.205</Data></Cell>
+    <Cell><Data ss:Type="String">ALTA Survey</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.210</Data></Cell>
+    <Cell><Data ss:Type="String">ALTA Survey - As Built</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.211</Data></Cell>
+    <Cell><Data ss:Type="String">P.A.D./Condo Map</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.215</Data></Cell>
+    <Cell><Data ss:Type="String">Native Plant Survey</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.225</Data></Cell>
+    <Cell><Data ss:Type="String">Archaeological</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.230</Data></Cell>
+    <Cell><Data ss:Type="String">Flood Insurance/Survey (404)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.235</Data></Cell>
+    <Cell><Data ss:Type="String">Feasibility (Market) Studies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.240</Data></Cell>
+    <Cell><Data ss:Type="String">Consultant - Local / City</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.250</Data></Cell>
+    <Cell><Data ss:Type="String">Environmental Consultants</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.255</Data></Cell>
+    <Cell><Data ss:Type="String">Geotechnical - Soils Report</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.256</Data></Cell>
+    <Cell><Data ss:Type="String">Soils &amp; Material Testing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.260</Data></Cell>
+    <Cell><Data ss:Type="String">Traffic Consultant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.265</Data></Cell>
+    <Cell><Data ss:Type="String">Street Light Engineer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.300</Data></Cell>
+    <Cell><Data ss:Type="String">Reimbursables</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.301</Data></Cell>
+    <Cell><Data ss:Type="String">Aerial Photos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.310</Data></Cell>
+    <Cell><Data ss:Type="String">Entitlement Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.350</Data></Cell>
+    <Cell><Data ss:Type="String">Fire Sprinkler Design</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.355</Data></Cell>
+    <Cell><Data ss:Type="String">Fire Alarm Design</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.375</Data></Cell>
+    <Cell><Data ss:Type="String">Fire Life Safety Consultant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.400</Data></Cell>
+    <Cell><Data ss:Type="String">Acoustical Consulting</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.410</Data></Cell>
+    <Cell><Data ss:Type="String">Accessibility Consultant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.420</Data></Cell>
+    <Cell><Data ss:Type="String">FAA Consultant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.460</Data></Cell>
+    <Cell><Data ss:Type="String">Food Service Consultant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.500</Data></Cell>
+    <Cell><Data ss:Type="String">Structural Engineer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.550</Data></Cell>
+    <Cell><Data ss:Type="String">Mechanical Engineer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.600</Data></Cell>
+    <Cell><Data ss:Type="String">Electrical Engineer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.605</Data></Cell>
+    <Cell><Data ss:Type="String">Joint Trench Consultant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.606</Data></Cell>
+    <Cell><Data ss:Type="String">Utility Locating Service</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.610</Data></Cell>
+    <Cell><Data ss:Type="String">Insulation Analysis</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.630</Data></Cell>
+    <Cell><Data ss:Type="String">Scheduling Consultant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.650</Data></Cell>
+    <Cell><Data ss:Type="String">Low Voltage Engineering</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.675</Data></Cell>
+    <Cell><Data ss:Type="String">Water Proofing Consultant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.700</Data></Cell>
+    <Cell><Data ss:Type="String">Quality Assurance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.701</Data></Cell>
+    <Cell><Data ss:Type="String">Special Inspections (Bldg Code</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.702</Data></Cell>
+    <Cell><Data ss:Type="String">Pre-Construction Survey</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.703</Data></Cell>
+    <Cell><Data ss:Type="String">Civil Special Inspections</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.704</Data></Cell>
+    <Cell><Data ss:Type="String">Structural Inspections</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.705</Data></Cell>
+    <Cell><Data ss:Type="String">Lenders Inspector</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.710</Data></Cell>
+    <Cell><Data ss:Type="String">Roofing Inspector</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.720</Data></Cell>
+    <Cell><Data ss:Type="String">Mold Certification</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.745</Data></Cell>
+    <Cell><Data ss:Type="String">Reserve Study</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.750</Data></Cell>
+    <Cell><Data ss:Type="String">Construction Cost Review</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.775</Data></Cell>
+    <Cell><Data ss:Type="String">Elevator Consultant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.800</Data></Cell>
+    <Cell><Data ss:Type="String">Color Consultant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.850</Data></Cell>
+    <Cell><Data ss:Type="String">Graphics/Sign Design</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.855</Data></Cell>
+    <Cell><Data ss:Type="String">Architectural Model</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.900</Data></Cell>
+    <Cell><Data ss:Type="String">Consultant Reimbursables</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">30.01.999</Data></Cell>
+    <Cell><Data ss:Type="String">Pre-Development Architect</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Permits &amp; Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">not used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.125</Data></Cell>
+    <Cell><Data ss:Type="String">Legal - Costruction Lender</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.800</Data></Cell>
+    <Cell><Data ss:Type="String">Permits &amp; Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.801</Data></Cell>
+    <Cell><Data ss:Type="String">Plan Check Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.803</Data></Cell>
+    <Cell><Data ss:Type="String">Electrical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.804</Data></Cell>
+    <Cell><Data ss:Type="String">Gas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.805</Data></Cell>
+    <Cell><Data ss:Type="String">Water/Sewer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.806</Data></Cell>
+    <Cell><Data ss:Type="String">Pre-Construction Temp Fence</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.807</Data></Cell>
+    <Cell><Data ss:Type="String">Pre-Construction Landscaping</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.808</Data></Cell>
+    <Cell><Data ss:Type="String">Pre-Construction Security</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.810</Data></Cell>
+    <Cell><Data ss:Type="String">Telephone</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.811</Data></Cell>
+    <Cell><Data ss:Type="String">Data</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.812</Data></Cell>
+    <Cell><Data ss:Type="String">Cable TV</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.813</Data></Cell>
+    <Cell><Data ss:Type="String">Satelite</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.814</Data></Cell>
+    <Cell><Data ss:Type="String">Owner Security System</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">31.01.820</Data></Cell>
+    <Cell><Data ss:Type="String">City Incentives</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">32.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Legal/Closing/Misc.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">32.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">not used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">32.01.100</Data></Cell>
+    <Cell><Data ss:Type="String">Legal - Partnership</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">32.01.125</Data></Cell>
+    <Cell><Data ss:Type="String">Legal - Construction Lender</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">32.01.150</Data></Cell>
+    <Cell><Data ss:Type="String">Legal - Equity</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">32.01.200</Data></Cell>
+    <Cell><Data ss:Type="String">Closing Cost - Land Loan</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">32.01.250</Data></Cell>
+    <Cell><Data ss:Type="String">Closing Costs - Const. Loan</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">32.01.300</Data></Cell>
+    <Cell><Data ss:Type="String">Legal - CC &amp; R's</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">33.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Insurance &amp; Bonds</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">33.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">not used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">33.01.100</Data></Cell>
+    <Cell><Data ss:Type="String">Theft/Loss</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">33.01.900</Data></Cell>
+    <Cell><Data ss:Type="String">Builders Risk Insurance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">33.01.910</Data></Cell>
+    <Cell><Data ss:Type="String">Bonds &amp; Deposits</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">33.01.920</Data></Cell>
+    <Cell><Data ss:Type="String">Bldrs Risk - Wrap Up Insurance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">33.01.950</Data></Cell>
+    <Cell><Data ss:Type="String">Liability Insurance (Owner)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">34.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY-Acctg/Audit/Financial</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">34.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">not used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">34.01.100</Data></Cell>
+    <Cell><Data ss:Type="String">Administrative</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">35.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY-Development/Overhead</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">35.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">not used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">35.01.100</Data></Cell>
+    <Cell><Data ss:Type="String">Development Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">35.01.150</Data></Cell>
+    <Cell><Data ss:Type="String">Supplemental Development Fee</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">35.01.210</Data></Cell>
+    <Cell><Data ss:Type="String">HOA Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">35.01.250</Data></Cell>
+    <Cell><Data ss:Type="String">Development Contingency</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">38.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Lenders Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">38.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">not used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">38.01.100</Data></Cell>
+    <Cell><Data ss:Type="String">Lender Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">38.01.140</Data></Cell>
+    <Cell><Data ss:Type="String">Lender Legal Fee</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">38.01.300</Data></Cell>
+    <Cell><Data ss:Type="String">Brokers Fees</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">39.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Construction Financing Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">39.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">Interest</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">39.01.300</Data></Cell>
+    <Cell><Data ss:Type="String">Interest Reserve - Constructio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">39.01.310</Data></Cell>
+    <Cell><Data ss:Type="String">Interest Reserve - SellerCarry</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">39.01.330</Data></Cell>
+    <Cell><Data ss:Type="String">Interest Reserve - Land</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">39.01.335</Data></Cell>
+    <Cell><Data ss:Type="String">Pre-Closing Carrying Cost</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">39.01.340</Data></Cell>
+    <Cell><Data ss:Type="String">Lease Up Deficit</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">60.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Leasing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">60.01.640</Data></Cell>
+    <Cell><Data ss:Type="String">Warranty</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">60.17.000</Data></Cell>
+    <Cell><Data ss:Type="String">not used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">60.17.100</Data></Cell>
+    <Cell><Data ss:Type="String">Leasing Comissions</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">60.17.310</Data></Cell>
+    <Cell><Data ss:Type="String">Sales Office Operations</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">60.17.340</Data></Cell>
+    <Cell><Data ss:Type="String">Office Equipment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">60.17.450</Data></Cell>
+    <Cell><Data ss:Type="String">New Home Warranty</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">61.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGROY - Advertising &amp; Marke</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">61.17.000</Data></Cell>
+    <Cell><Data ss:Type="String">not used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">61.17.050</Data></Cell>
+    <Cell><Data ss:Type="String">Advertising</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">61.17.200</Data></Cell>
+    <Cell><Data ss:Type="String">Layout/Printing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">62.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Models &amp; Prop. Cost</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">62.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">not used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">62.01.050</Data></Cell>
+    <Cell><Data ss:Type="String">Audio/Video Equipment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">62.01.200</Data></Cell>
+    <Cell><Data ss:Type="String">Clubhouse Upgrades</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">62.01.300</Data></Cell>
+    <Cell><Data ss:Type="String">Exercise Equipment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">62.01.400</Data></Cell>
+    <Cell><Data ss:Type="String">Business/Leasing Off Equipment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">62.01.500</Data></Cell>
+    <Cell><Data ss:Type="String">Furniture-Model &amp; Clubhouse</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">62.01.800</Data></Cell>
+    <Cell><Data ss:Type="String">Pool Landscape Furniture</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">63.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Condominium-Sales &amp; Marketing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">63.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">not used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">63.01.100</Data></Cell>
+    <Cell><Data ss:Type="String">Advertising</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">63.01.200</Data></Cell>
+    <Cell><Data ss:Type="String">Public Relations</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">63.01.300</Data></Cell>
+    <Cell><Data ss:Type="String">Print Materials</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">63.01.400</Data></Cell>
+    <Cell><Data ss:Type="String">Promotional Items</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">63.01.500</Data></Cell>
+    <Cell><Data ss:Type="String">Sales Div - Travel &amp; Entertain</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">64.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Sales &amp; Marketing Center</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">64.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">not used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">64.01.100</Data></Cell>
+    <Cell><Data ss:Type="String">Draw to Sales People</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">64.01.200</Data></Cell>
+    <Cell><Data ss:Type="String">Lease</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">64.01.300</Data></Cell>
+    <Cell><Data ss:Type="String">Sales Center Furniture</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">64.01.350</Data></Cell>
+    <Cell><Data ss:Type="String">Model Furniture</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">64.01.400</Data></Cell>
+    <Cell><Data ss:Type="String">Interior Design</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">64.01.500</Data></Cell>
+    <Cell><Data ss:Type="String">Office Equipment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">64.01.600</Data></Cell>
+    <Cell><Data ss:Type="String">Improvements</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">64.01.700</Data></Cell>
+    <Cell><Data ss:Type="String">Audio/Video Equipment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">65.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">HOA Ownership Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">70.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Category - Tenant Improvement</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">75.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tenant Imp - Change Order</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">75.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tenant Imp - Change Order</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">75.01.100</Data></Cell>
+    <Cell><Data ss:Type="String">Tenant Imp - Change Order</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">75.01.101</Data></Cell>
+    <Cell><Data ss:Type="String">Upgrade Sales</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">80.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Category - Recovery</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">80.00.001</Data></Cell>
+    <Cell><Data ss:Type="String">Recovery - Parking Lots</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">80.00.002</Data></Cell>
+    <Cell><Data ss:Type="String">Recovery - Signs</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <TopRowVisible>150</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>C1</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Hard Costs">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="219" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="60.75"/>
+   <Column ss:StyleID="s63" ss:Width="175.5"/>
+   <Row>
+    <Cell><Data ss:Type="String">20.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Category - Construction Costs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">not used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.030</Data></Cell>
+    <Cell><Data ss:Type="String">General Contractor Billings</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.040</Data></Cell>
+    <Cell><Data ss:Type="String">General Conditions</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.050</Data></Cell>
+    <Cell><Data ss:Type="String">Contractor's Fee</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.200</Data></Cell>
+    <Cell><Data ss:Type="String">Catalogs (filing only)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.280</Data></Cell>
+    <Cell><Data ss:Type="String">Film/Job Photos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.310</Data></Cell>
+    <Cell><Data ss:Type="String">Field Trailers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.315</Data></Cell>
+    <Cell><Data ss:Type="String">Office Furniture &amp; Equipment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.317</Data></Cell>
+    <Cell><Data ss:Type="String">Computer Support &amp; Equipment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.320</Data></Cell>
+    <Cell><Data ss:Type="String">Temporary Toilets</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.325</Data></Cell>
+    <Cell><Data ss:Type="String">Drinking water</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.330</Data></Cell>
+    <Cell><Data ss:Type="String">Temporary Water/Hydrants</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.340</Data></Cell>
+    <Cell><Data ss:Type="String">Temporary Telephone</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.345</Data></Cell>
+    <Cell><Data ss:Type="String">Temporary Cellular Phone</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.350</Data></Cell>
+    <Cell><Data ss:Type="String">Temporary Power</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.360</Data></Cell>
+    <Cell><Data ss:Type="String">Temporary Gas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.370</Data></Cell>
+    <Cell><Data ss:Type="String">Temporary Road</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.380</Data></Cell>
+    <Cell><Data ss:Type="String">Temporary Fence</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.385</Data></Cell>
+    <Cell><Data ss:Type="String">Storage Container</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.386</Data></Cell>
+    <Cell><Data ss:Type="String">Storage/Staging Area</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.400</Data></Cell>
+    <Cell><Data ss:Type="String">Barricades</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.410</Data></Cell>
+    <Cell><Data ss:Type="String">Professional Traffic Control</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.420</Data></Cell>
+    <Cell><Data ss:Type="String">Dust Control</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.430</Data></Cell>
+    <Cell><Data ss:Type="String">Trash Removal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.440</Data></Cell>
+    <Cell><Data ss:Type="String">Temporary Labor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.460</Data></Cell>
+    <Cell><Data ss:Type="String">Temporary Protection</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.470</Data></Cell>
+    <Cell><Data ss:Type="String">Site Construction Signs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.500</Data></Cell>
+    <Cell><Data ss:Type="String">Supervision</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.502</Data></Cell>
+    <Cell><Data ss:Type="String">Construction Manager</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.505</Data></Cell>
+    <Cell><Data ss:Type="String">Project Manager</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.507</Data></Cell>
+    <Cell><Data ss:Type="String">Quality Assurance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.510</Data></Cell>
+    <Cell><Data ss:Type="String">Punch Labor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.515</Data></Cell>
+    <Cell><Data ss:Type="String">Field Secretary</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.520</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.530</Data></Cell>
+    <Cell><Data ss:Type="String">Business License</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.550</Data></Cell>
+    <Cell><Data ss:Type="String">Travel/Entertainment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.560</Data></Cell>
+    <Cell><Data ss:Type="String">Safety</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.580</Data></Cell>
+    <Cell><Data ss:Type="String">Gov. Compliance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.600</Data></Cell>
+    <Cell><Data ss:Type="String">Supplies/Stationary/Printing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.620</Data></Cell>
+    <Cell><Data ss:Type="String">Misc. Tools &amp; Supplies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.625</Data></Cell>
+    <Cell><Data ss:Type="String">Rental Equipment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.626</Data></Cell>
+    <Cell><Data ss:Type="String">Cranes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.630</Data></Cell>
+    <Cell><Data ss:Type="String">Carpet Cleaning</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.640</Data></Cell>
+    <Cell><Data ss:Type="String">Theft</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.750</Data></Cell>
+    <Cell><Data ss:Type="String">Site Clean Up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.900</Data></Cell>
+    <Cell><Data ss:Type="String">Miscellaneous Permits</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.950</Data></Cell>
+    <Cell><Data ss:Type="String">General Liability Insurance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.01.951</Data></Cell>
+    <Cell><Data ss:Type="String">Wrap Up Insurance Credit</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.000</Data></Cell>
+    <Cell><Data ss:Type="String">Category - Sitework</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.020</Data></Cell>
+    <Cell><Data ss:Type="String">Site General Conditions</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.050</Data></Cell>
+    <Cell><Data ss:Type="String">Testing &amp; Inspection</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.070</Data></Cell>
+    <Cell><Data ss:Type="String">Surveying &amp; Staking</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.100</Data></Cell>
+    <Cell><Data ss:Type="String">Demolition</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.130</Data></Cell>
+    <Cell><Data ss:Type="String">Plant Salvage</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.210</Data></Cell>
+    <Cell><Data ss:Type="String">Earthwork</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.230</Data></Cell>
+    <Cell><Data ss:Type="String">De-Watering</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.240</Data></Cell>
+    <Cell><Data ss:Type="String">Soil Import/Export</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.245</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Dig</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.250</Data></Cell>
+    <Cell><Data ss:Type="String">Fine Grading</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.300</Data></Cell>
+    <Cell><Data ss:Type="String">Asphalt Paving</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.301</Data></Cell>
+    <Cell><Data ss:Type="String">Asphalt - Stamped</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.305</Data></Cell>
+    <Cell><Data ss:Type="String">Utility Adjustments</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.310</Data></Cell>
+    <Cell><Data ss:Type="String">Offsite - Asphalt</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.320</Data></Cell>
+    <Cell><Data ss:Type="String">Offsite - Curb &amp; Gutter</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.330</Data></Cell>
+    <Cell><Data ss:Type="String">Offsite - Streetlights</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.340</Data></Cell>
+    <Cell><Data ss:Type="String">Offsite - Water</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.342</Data></Cell>
+    <Cell><Data ss:Type="String">Offsite - Sanitary Sewer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.344</Data></Cell>
+    <Cell><Data ss:Type="String">Offsite - Storm Sewer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.345</Data></Cell>
+    <Cell><Data ss:Type="String">Offsite - Gas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.350</Data></Cell>
+    <Cell><Data ss:Type="String">Offsite - Electric/Phone/Catv.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.360</Data></Cell>
+    <Cell><Data ss:Type="String">Seal Coating</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.400</Data></Cell>
+    <Cell><Data ss:Type="String">Onsite - Fireline</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.420</Data></Cell>
+    <Cell><Data ss:Type="String">Onsite - Storm Sewer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.430</Data></Cell>
+    <Cell><Data ss:Type="String">Onsite - Domestic Water</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.440</Data></Cell>
+    <Cell><Data ss:Type="String">Onsite - Sanitary Sewer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.445</Data></Cell>
+    <Cell><Data ss:Type="String">Storm Water Management System</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.450</Data></Cell>
+    <Cell><Data ss:Type="String">Drywells</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.460</Data></Cell>
+    <Cell><Data ss:Type="String">Onsite - Electrical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.470</Data></Cell>
+    <Cell><Data ss:Type="String">Onsite - Phone/CATV</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.480</Data></Cell>
+    <Cell><Data ss:Type="String">Onsite - Gas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.525</Data></Cell>
+    <Cell><Data ss:Type="String">Concrete Pavers/Decor Concrete</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.526</Data></Cell>
+    <Cell><Data ss:Type="String">Truncated Dome Concrete Pavers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.560</Data></Cell>
+    <Cell><Data ss:Type="String">Retaining Walls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.561</Data></Cell>
+    <Cell><Data ss:Type="String">Site Walls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.562</Data></Cell>
+    <Cell><Data ss:Type="String">Stucco Site Work</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.563</Data></Cell>
+    <Cell><Data ss:Type="String">Site Walls Masonry</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.564</Data></Cell>
+    <Cell><Data ss:Type="String">Masonry BBQ's &amp; Fireplace</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.571</Data></Cell>
+    <Cell><Data ss:Type="String">Trash Enclosures Walls</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.580</Data></Cell>
+    <Cell><Data ss:Type="String">Extruded Curbs &amp; Striping</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.600</Data></Cell>
+    <Cell><Data ss:Type="String">W. Iron perimeter fence</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.601</Data></Cell>
+    <Cell><Data ss:Type="String">W. Iron pool fence</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.602</Data></Cell>
+    <Cell><Data ss:Type="String">W. Iron trash gates</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.700</Data></Cell>
+    <Cell><Data ss:Type="String">Pools &amp; Spas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.705</Data></Cell>
+    <Cell><Data ss:Type="String">Waterfeatures</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.710</Data></Cell>
+    <Cell><Data ss:Type="String">Pool Equipment Covers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.711</Data></Cell>
+    <Cell><Data ss:Type="String">Ramadas</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.715</Data></Cell>
+    <Cell><Data ss:Type="String">Barbeques</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.716</Data></Cell>
+    <Cell><Data ss:Type="String">Bike Racks</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.717</Data></Cell>
+    <Cell><Data ss:Type="String">Site Fireplaces</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.720</Data></Cell>
+    <Cell><Data ss:Type="String">Automatic Gates</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.725</Data></Cell>
+    <Cell><Data ss:Type="String">Carports</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.730</Data></Cell>
+    <Cell><Data ss:Type="String">Sidewalks</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.731</Data></Cell>
+    <Cell><Data ss:Type="String">Trash Enclosure Slabs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.732</Data></Cell>
+    <Cell><Data ss:Type="String">Misc. Site Concrete</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.735</Data></Cell>
+    <Cell><Data ss:Type="String">Sawcutting</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.740</Data></Cell>
+    <Cell><Data ss:Type="String">Site Lighting</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.745</Data></Cell>
+    <Cell><Data ss:Type="String">Playground Equipment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.800</Data></Cell>
+    <Cell><Data ss:Type="String">Landscaping/Irrigation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.840</Data></Cell>
+    <Cell><Data ss:Type="String">Erosion Control</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.02.900</Data></Cell>
+    <Cell><Data ss:Type="String">Soil Poisoning</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.03.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Concrete</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.03.300</Data></Cell>
+    <Cell><Data ss:Type="String">Structural Concrete</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.03.600</Data></Cell>
+    <Cell><Data ss:Type="String">Gypcrete</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.03.610</Data></Cell>
+    <Cell><Data ss:Type="String">Hardrock Concrete</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.03.620</Data></Cell>
+    <Cell><Data ss:Type="String">Balcony Waterproofing &amp; Sheetm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.03.630</Data></Cell>
+    <Cell><Data ss:Type="String">Acoustimat</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.04.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Masonry</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.04.200</Data></Cell>
+    <Cell><Data ss:Type="String">Masonry</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.04.500</Data></Cell>
+    <Cell><Data ss:Type="String">Stone Veneer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.05.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Metals</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.05.500</Data></Cell>
+    <Cell><Data ss:Type="String">Structural Steel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.05.510</Data></Cell>
+    <Cell><Data ss:Type="String">Special Metals</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.05.530</Data></Cell>
+    <Cell><Data ss:Type="String">Stairs, Rails, Fences, &amp; Gates</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.06.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Wood &amp; Plastic</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.06.100</Data></Cell>
+    <Cell><Data ss:Type="String">Rough Carpentry-Labor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.06.105</Data></Cell>
+    <Cell><Data ss:Type="String">Miscelleous Rough Carp</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.06.110</Data></Cell>
+    <Cell><Data ss:Type="String">Rough Carpentry - Hardware</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.06.120</Data></Cell>
+    <Cell><Data ss:Type="String">Rough Carpentry - Lumber</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.06.140</Data></Cell>
+    <Cell><Data ss:Type="String">Rough Carpentry - Trusses</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.06.172</Data></Cell>
+    <Cell><Data ss:Type="String">Beams &amp; Joists</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.06.173</Data></Cell>
+    <Cell><Data ss:Type="String">Wood Trusses</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.06.180</Data></Cell>
+    <Cell><Data ss:Type="String">Lumber &amp; Hardware</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.06.300</Data></Cell>
+    <Cell><Data ss:Type="String">Trim Carpentry</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.06.310</Data></Cell>
+    <Cell><Data ss:Type="String">Closet Shelving</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.07.000</Data></Cell>
+    <Cell><Data ss:Type="String">CAT - Thermal &amp; Moisture Prot.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.07.100</Data></Cell>
+    <Cell><Data ss:Type="String">Waterproofing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.07.200</Data></Cell>
+    <Cell><Data ss:Type="String">Insulation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.07.500</Data></Cell>
+    <Cell><Data ss:Type="String">Roofing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.07.600</Data></Cell>
+    <Cell><Data ss:Type="String">General Sheet Metal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.07.610</Data></Cell>
+    <Cell><Data ss:Type="String">Gutter &amp; Downspouts</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.08.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Doors &amp; Windows</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.08.110</Data></Cell>
+    <Cell><Data ss:Type="String">Doors, Frames &amp; Hardware</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.08.300</Data></Cell>
+    <Cell><Data ss:Type="String">Aluminum Storefront</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.08.310</Data></Cell>
+    <Cell><Data ss:Type="String">Access Doors</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.08.311</Data></Cell>
+    <Cell><Data ss:Type="String">Louvered Access Doors</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.08.370</Data></Cell>
+    <Cell><Data ss:Type="String">Garage Doors</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.08.500</Data></Cell>
+    <Cell><Data ss:Type="String">Windows &amp; Sliding Glass Doors</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.08.520</Data></Cell>
+    <Cell><Data ss:Type="String">Reglazing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.08.640</Data></Cell>
+    <Cell><Data ss:Type="String">Sliding Glass Doors - Labor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Finishes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.100</Data></Cell>
+    <Cell><Data ss:Type="String">Drywall</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.200</Data></Cell>
+    <Cell><Data ss:Type="String">Stucco</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.210</Data></Cell>
+    <Cell><Data ss:Type="String">Stucco Cleanup</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.300</Data></Cell>
+    <Cell><Data ss:Type="String">Ceramic Tile</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.400</Data></Cell>
+    <Cell><Data ss:Type="String">Cultured Marble</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.410</Data></Cell>
+    <Cell><Data ss:Type="String">Cabinets</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.411</Data></Cell>
+    <Cell><Data ss:Type="String">Countertops</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.450</Data></Cell>
+    <Cell><Data ss:Type="String">Clubhouse Millwork</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.500</Data></Cell>
+    <Cell><Data ss:Type="String">Acoustic Ceiling</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.600</Data></Cell>
+    <Cell><Data ss:Type="String">Vinyl</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.610</Data></Cell>
+    <Cell><Data ss:Type="String">Vinyl Repairs &amp; Carpet Cleanin</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.620</Data></Cell>
+    <Cell><Data ss:Type="String">Hard Tiles</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.650</Data></Cell>
+    <Cell><Data ss:Type="String">Carpet</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.680</Data></Cell>
+    <Cell><Data ss:Type="String">Carpet Cleaning</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.700</Data></Cell>
+    <Cell><Data ss:Type="String">Clubhouse Flooring</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.750</Data></Cell>
+    <Cell><Data ss:Type="String">Clubhouse Upgrades</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.800</Data></Cell>
+    <Cell><Data ss:Type="String">Final Clean Up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.850</Data></Cell>
+    <Cell><Data ss:Type="String">Window Cleaning</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.900</Data></Cell>
+    <Cell><Data ss:Type="String">Painting</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.09.950</Data></Cell>
+    <Cell><Data ss:Type="String">Epoxy Floor Coating</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.10.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Specialties</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.10.300</Data></Cell>
+    <Cell><Data ss:Type="String">Fireplaces</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.10.430</Data></Cell>
+    <Cell><Data ss:Type="String">Signage/Graphics</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.10.520</Data></Cell>
+    <Cell><Data ss:Type="String">Fire Extinguishers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.10.550</Data></Cell>
+    <Cell><Data ss:Type="String">Mailboxes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.10.600</Data></Cell>
+    <Cell><Data ss:Type="String">Precast Specialties</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.10.700</Data></Cell>
+    <Cell><Data ss:Type="String">Awning &amp; Shutters</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.10.800</Data></Cell>
+    <Cell><Data ss:Type="String">Bath Accessories &amp; Mirrors</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.10.810</Data></Cell>
+    <Cell><Data ss:Type="String">Mirror Wardrobe Doors</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.10.850</Data></Cell>
+    <Cell><Data ss:Type="String">Computer Keyboard Trays</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.11.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Equipment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.11.450</Data></Cell>
+    <Cell><Data ss:Type="String">Appliances</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.11.550</Data></Cell>
+    <Cell><Data ss:Type="String">Sub Metering</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.11.600</Data></Cell>
+    <Cell><Data ss:Type="String">Trash compactor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.11.700</Data></Cell>
+    <Cell><Data ss:Type="String">Tanning Bed</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.12.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Furnishings</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.12.500</Data></Cell>
+    <Cell><Data ss:Type="String">Window Coverings</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.14.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Vertical Transport</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.14.200</Data></Cell>
+    <Cell><Data ss:Type="String">Elevators</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.15.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Mechanical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.15.400</Data></Cell>
+    <Cell><Data ss:Type="String">Plumbing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.15.401</Data></Cell>
+    <Cell><Data ss:Type="String">Miscellaneous Plumbing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.15.410</Data></Cell>
+    <Cell><Data ss:Type="String">Gas Piping</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.15.420</Data></Cell>
+    <Cell><Data ss:Type="String">Tub Repairs &amp; Drain Cleaning</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.15.500</Data></Cell>
+    <Cell><Data ss:Type="String">Fire Protection/Sprinklers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.15.800</Data></Cell>
+    <Cell><Data ss:Type="String">H.V.A.C.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.16.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Electrical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.16.100</Data></Cell>
+    <Cell><Data ss:Type="String">Electrical</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.16.110</Data></Cell>
+    <Cell><Data ss:Type="String">Fire Alarms</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.16.210</Data></Cell>
+    <Cell><Data ss:Type="String">Light Fixtures</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.16.260</Data></Cell>
+    <Cell><Data ss:Type="String">Clubhouse &amp; Model Security Sys</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.16.265</Data></Cell>
+    <Cell><Data ss:Type="String">Clubhouse Audio/Video</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.16.270</Data></Cell>
+    <Cell><Data ss:Type="String">Low Voltage</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.16.800</Data></Cell>
+    <Cell><Data ss:Type="String">Intrusion Alarm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.17.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Refurbished Units</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.17.400</Data></Cell>
+    <Cell><Data ss:Type="String">Unit Cleaning</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.17.410</Data></Cell>
+    <Cell><Data ss:Type="String">Tub Refinishing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.17.425</Data></Cell>
+    <Cell><Data ss:Type="String">Carpet Cleaning</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.17.430</Data></Cell>
+    <Cell><Data ss:Type="String">Miscellaneous Repairs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.17.500</Data></Cell>
+    <Cell><Data ss:Type="String">Cabinet Refinishing</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.18.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Sales Tax</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.18.100</Data></Cell>
+    <Cell><Data ss:Type="String">Sales Tax (Construction)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.19.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Warranty</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">20.19.100</Data></Cell>
+    <Cell><Data ss:Type="String">Warranty</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">21.00.000</Data></Cell>
+    <Cell><Data ss:Type="String">CATEGORY - Contingencies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">21.01.000</Data></Cell>
+    <Cell><Data ss:Type="String">not used</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">21.01.050</Data></Cell>
+    <Cell><Data ss:Type="String">Subcontractor Bonding</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">21.01.100</Data></Cell>
+    <Cell><Data ss:Type="String">Contingencies (Hard Cost)</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <TopRowVisible>213</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>C1</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

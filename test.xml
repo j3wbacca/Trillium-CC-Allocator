@@ -1,0 +1,119 @@
+<?xml version="1.0" standalone="yes"?>
+<Allocations>
+  <xs:schema id="Allocations" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+    <xs:element name="Allocations" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:AppVersion="1.0.2.6" msprop:user="Error: DataSet User is Blank">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Allocation">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ChargeID" type="xs:string" />
+                <xs:element name="Process_x0020_Date" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Merchant_x0020_Name_x002F_Location" minOccurs="0">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="510" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="Cardholder_x0020_Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Amount" type="xs:double" minOccurs="0" />
+                <xs:element name="Company" type="xs:string" minOccurs="0" />
+                <xs:element name="Account" type="xs:string" minOccurs="0" />
+                <xs:element name="Description" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="Split">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ChargeID" type="xs:string" minOccurs="0" />
+                <xs:element name="Company" type="xs:string" minOccurs="0" />
+                <xs:element name="Account" type="xs:string" minOccurs="0" />
+                <xs:element name="Amount" type="xs:double" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="StatementInfo">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="StatementDate" type="xs:string" minOccurs="0" />
+                <xs:element name="InvoiceDate" type="xs:string" minOccurs="0" />
+                <xs:element name="PayeeName" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Allocation" />
+        <xs:field xpath="ChargeID" />
+      </xs:unique>
+      <xs:keyref name="allocation-Split" refer="Constraint1">
+        <xs:selector xpath=".//Split" />
+        <xs:field xpath="ChargeID" />
+      </xs:keyref>
+    </xs:element>
+  </xs:schema>
+  <Allocation>
+    <ChargeID>12675301333420033</ChargeID>
+    <Process_x0020_Date>2010-02-06T00:00:00-07:00</Process_x0020_Date>
+    <Merchant_x0020_Name_x002F_Location>FACEBOOK ADVERTISING 650-543-7818 CA REF# 24814833946 ADVERTISING 02/05/10</Merchant_x0020_Name_x002F_Location>
+    <Cardholder_x0020_Name>WILL BRADLEY</Cardholder_x0020_Name>
+    <Amount>8.07</Amount>
+    <Company>Split</Company>
+    <Account>Split</Account>
+    <Description>Online Ads</Description>
+  </Allocation>
+  <Allocation>
+    <ChargeID>12675301333420034</ChargeID>
+    <Process_x0020_Date>2010-02-06T00:00:00-07:00</Process_x0020_Date>
+    <Merchant_x0020_Name_x002F_Location>FACEBOOK ADVERTISING 650-543-7818 CA REF# 81064793292 ADVERTISING 02/05/10</Merchant_x0020_Name_x002F_Location>
+    <Cardholder_x0020_Name>WILL BRADLEY</Cardholder_x0020_Name>
+    <Amount>30</Amount>
+    <Company />
+    <Account />
+    <Description>Online Ads</Description>
+  </Allocation>
+  <Allocation>
+    <ChargeID>12675301333420035</ChargeID>
+    <Process_x0020_Date>2010-02-07T00:00:00-07:00</Process_x0020_Date>
+    <Merchant_x0020_Name_x002F_Location>FACEBOOK ADVERTISING 650-543-7818 CA REF# 27246777745 ADVERTISING 02/06/10</Merchant_x0020_Name_x002F_Location>
+    <Cardholder_x0020_Name>WILL BRADLEY</Cardholder_x0020_Name>
+    <Amount>30</Amount>
+    <Company />
+    <Account />
+    <Description>Online Ads</Description>
+  </Allocation>
+  <Allocation>
+    <ChargeID>12675301333420036</ChargeID>
+    <Process_x0020_Date>2010-02-08T00:00:00-07:00</Process_x0020_Date>
+    <Merchant_x0020_Name_x002F_Location>GOOGLE *BARGAIN SALE GOOGLE.COM/CH CA 559669730 BUYDRP0X573200C7D85281 02/08/10</Merchant_x0020_Name_x002F_Location>
+    <Cardholder_x0020_Name>WILL BRADLEY</Cardholder_x0020_Name>
+    <Amount>10</Amount>
+    <Company>Trillium Investments LLC</Company>
+    <Account>6550.000 Small Equip &amp; Office Equip</Account>
+    <Description>TRC - TV Remote for Bdrm hayden </Description>
+  </Allocation>
+  <Allocation>
+    <ChargeID>12675301333420037</ChargeID>
+    <Process_x0020_Date>2010-02-08T00:00:00-07:00</Process_x0020_Date>
+    <Merchant_x0020_Name_x002F_Location>GOOGLE *SHOP4TECH.CO GOOGLE.COM/CH CA 56003652Z R8YXZCGR504500RSN85281 02/08/10</Merchant_x0020_Name_x002F_Location>
+    <Cardholder_x0020_Name>WILL BRADLEY</Cardholder_x0020_Name>
+    <Amount>21</Amount>
+    <Company>Trillium Investments LLC</Company>
+    <Account>6545.000 Computer Supplies</Account>
+    <Description>TRC -  Blank Discs for IT misc use</Description>
+  </Allocation>
+  <Split>
+    <ChargeID>12675301333420033</ChargeID>
+  </Split>
+  <Split>
+    <ChargeID>12675301333420033</ChargeID>
+  </Split>
+  <StatementInfo>
+    <StatementDate>3/24/2010</StatementDate>
+    <InvoiceDate>3/24/2010</InvoiceDate>
+    <PayeeName>Avenue Communities, LLC</PayeeName>
+  </StatementInfo>
+</Allocations>

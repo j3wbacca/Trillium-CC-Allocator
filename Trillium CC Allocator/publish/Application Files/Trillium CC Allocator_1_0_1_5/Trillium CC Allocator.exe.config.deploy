@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Trillium_CC_Allocation.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <applicationSettings>
+        <Trillium_CC_Allocation.Properties.Settings>
+            <setting name="chartOfAccountsPath" serializeAs="String">
+                <value>Trillium_CC_Allocation.chartofaccounts3.8.xls.ser</value>
+            </setting>
+            <setting name="updateURL" serializeAs="String">
+                <value>http://www.tracserver.com/office/files/acct/allocatorCurrentVersions.txt</value>
+            </setting>
+            <setting name="updateWebsite" serializeAs="String">
+                <value>http://www.tracserver.com/office</value>
+            </setting>
+            <setting name="adminVersion" serializeAs="String">
+                <value>true</value>
+            </setting>
+        </Trillium_CC_Allocation.Properties.Settings>
+    </applicationSettings>
+</configuration>

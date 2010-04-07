@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Trillium_CC_Allocation.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="chartOfAccountsPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Trillium_CC_Allocation.chartofaccounts4.1.xls.ser</Value>
+    </Setting>
+    <Setting Name="updateURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.tracserver.com/cmsms/uploads/allocator/allocatorCurrentVersions.txt</Value>
+    </Setting>
+    <Setting Name="updateWebsite" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.tracserver.com/office</Value>
+    </Setting>
+    <Setting Name="adminVersion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">false</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

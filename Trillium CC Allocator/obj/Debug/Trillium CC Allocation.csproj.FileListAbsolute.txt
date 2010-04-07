@@ -1,0 +1,8 @@
+C:\Users\Will\AppData\Local\Temporary Projects\Trillium CC Allocation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Will\AppData\Local\Temporary Projects\Trillium CC Allocation\obj\Debug\Trillium_CC_Allocation.Form1.resources
+C:\Users\Will\AppData\Local\Temporary Projects\Trillium CC Allocation\obj\Debug\Trillium_CC_Allocation.Properties.Resources.resources
+C:\Users\Will\AppData\Local\Temporary Projects\Trillium CC Allocation\obj\Debug\Trillium CC Allocation.csproj.GenerateResource.Cache
+C:\Users\Will\AppData\Local\Temporary Projects\Trillium CC Allocation\bin\Debug\Trillium CC Allocation.exe
+C:\Users\Will\AppData\Local\Temporary Projects\Trillium CC Allocation\bin\Debug\Trillium CC Allocation.pdb
+C:\Users\Will\AppData\Local\Temporary Projects\Trillium CC Allocation\obj\Debug\Trillium CC Allocation.exe
+C:\Users\Will\AppData\Local\Temporary Projects\Trillium CC Allocation\obj\Debug\Trillium CC Allocation.pdb

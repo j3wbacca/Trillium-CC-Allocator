@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="test.xsl"?>
+<AllocationFiles>
+  <Avenue_x0020_Communities>
+    <Cardholder_x0020_Name>BRADLEY, WILL - 21265</Cardholder_x0020_Name>
+    <Process_x0020_Date>2007-12-01T00:00:00-07:00</Process_x0020_Date>
+    <Merchant_x0020_Category>Materials, Supplies &amp; Equipment</Merchant_x0020_Category>
+    <Subcategory>Computer Supplies</Subcategory>
+    <Merchant_x0020_Name_x002F_Location>DELL DIRECT SALES COAUSTIN            TX</Merchant_x0020_Name_x002F_Location>
+    <Amount>204.04</Amount>
+    <Entity>Avenue Communities</Entity>
+    <Account>5235 Computer Supplies</Account>
+  </Avenue_x0020_Communities>
+  <Avenue_x0020_Communities>
+    <Cardholder_x0020_Name>BRADLEY, WILL - 21265</Cardholder_x0020_Name>
+    <Process_x0020_Date>2007-12-04T00:00:00-07:00</Process_x0020_Date>
+    <Merchant_x0020_Category>Communications &amp; Utilities</Merchant_x0020_Category>
+    <Subcategory>Mobile Telecom</Subcategory>
+    <Merchant_x0020_Name_x002F_Location>EACCESS SOLUTIONS, I847-9917190         IL</Merchant_x0020_Name_x002F_Location>
+    <Amount>29.2</Amount>
+    <Entity>Avenue Communities</Entity>
+    <Account>5235 Computer Supplies</Account>
+  </Avenue_x0020_Communities>
+  <Avenue_x0020_Communities>
+    <Cardholder_x0020_Name>BRADLEY, WILL - 21265</Cardholder_x0020_Name>
+    <Process_x0020_Date>2007-12-07T00:00:00-07:00</Process_x0020_Date>
+    <Merchant_x0020_Category>Communications &amp; Utilities</Merchant_x0020_Category>
+    <Subcategory>Mobile Telecom</Subcategory>
+    <Merchant_x0020_Name_x002F_Location>EACCESS SOLUTIONS, I847-9917190         IL</Merchant_x0020_Name_x002F_Location>
+    <Amount>29.2</Amount>
+    <Entity>Avenue Communities</Entity>
+    <Account>5235 Computer Supplies</Account>
+  </Avenue_x0020_Communities>
+  <Trillium_x0020_Development>
+    <Cardholder_x0020_Name>BRADLEY, WILL - 21265</Cardholder_x0020_Name>
+    <Process_x0020_Date>2007-12-01T00:00:00-07:00</Process_x0020_Date>
+    <Merchant_x0020_Category>Materials, Supplies &amp; Equipment</Merchant_x0020_Category>
+    <Subcategory>Computer Supplies</Subcategory>
+    <Merchant_x0020_Name_x002F_Location>IBACKUP.COM PROSOFTN8185945972          CA</Merchant_x0020_Name_x002F_Location>
+    <Amount>19.95</Amount>
+    <Entity>Trillium Development</Entity>
+    <Account>8572 Legal Fees</Account>
+  </Trillium_x0020_Development>
+  <Trillium_x0020_Development>
+    <Cardholder_x0020_Name>BRADLEY, WILL - 21265</Cardholder_x0020_Name>
+    <Process_x0020_Date>2007-12-06T00:00:00-07:00</Process_x0020_Date>
+    <Merchant_x0020_Category>Materials, Supplies &amp; Equipment</Merchant_x0020_Category>
+    <Subcategory>Computer Supplies</Subcategory>
+    <Merchant_x0020_Name_x002F_Location>APPLE WEB STORE APPLAUSTIN              TX</Merchant_x0020_Name_x002F_Location>
+    <Amount>4045.72</Amount>
+    <Entity>Trillium Development</Entity>
+    <Account>8572 Legal Fees</Account>
+  </Trillium_x0020_Development>
+  <Trillium_x0020_Development>
+    <Cardholder_x0020_Name>BRADLEY, WILL - 21265</Cardholder_x0020_Name>
+    <Process_x0020_Date>2007-12-10T00:00:00-07:00</Process_x0020_Date>
+    <Merchant_x0020_Category>Materials, Supplies &amp; Equipment</Merchant_x0020_Category>
+    <Subcategory>Computer Supplies</Subcategory>
+    <Merchant_x0020_Name_x002F_Location>CDW COMPUTER CENTERSVERNON HILLS      IL</Merchant_x0020_Name_x002F_Location>
+    <Amount>106.38</Amount>
+    <Entity>Trillium Development</Entity>
+    <Account>8572 Legal Fees</Account>
+  </Trillium_x0020_Development>
+</AllocationFiles>

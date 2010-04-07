@@ -1,0 +1,22 @@
+-2 split fields on initial split?
+-also when doing a multi split??
+	-have it splitting it twice to start
+-program crashes when in the multi-split form and no splits and click remove split
+	-fixed it with a counter
+-changed the multi-split form to accept "weights" to divide by fractions
+-an "ok" or "done" button in the multi-split form instead of just clicking the "x"? Or have the form close on "perform split" click
+	-form now closes on button click
+
+to do:
+-possible changes to how program works after doing a multi-split
+	-have focus be back on main form??
+-un-split does't multi-unsplit if multiple things selected
+-no company or account drop down in multi-split
+-something that tells you when a split transaction doesn't have any values entered
+	-something like: if company or account = "" company and account.value = "split*"
+
+
+
+
+Add split Un-Split View Transactions Remove Split
+Split fields: Amount Company Account
